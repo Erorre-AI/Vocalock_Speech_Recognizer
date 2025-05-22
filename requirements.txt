@@ -1,0 +1,11 @@
+numpy~=2.1.3
+librosa~=0.11.0
+sounddevice
+soundfile
+openai-whisper~=20240930
+pyAudioAnalysis~=0.3.14
+scipy~=1.15.3
+streamlit~=1.45.1
+openai~=0.28.0
+PyAudio~=0.2.14
+scikit-learn~=1.6.1
