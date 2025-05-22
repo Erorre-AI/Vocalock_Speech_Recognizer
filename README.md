@@ -117,11 +117,3 @@ MIT License © 2025 [Erorre-AI](https://github.com/Erorre-AI)
 * Support for audio file uploads
 
 ```
-
----
-
-Let me know if you'd like me to include:
-- A badge section (build, license, python version)
-- A GIF demo
-- Deployment instructions (Docker, Hugging Face, etc.)
-```
