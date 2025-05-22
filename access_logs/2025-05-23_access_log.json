@@ -1,0 +1,86 @@
+[
+  {
+    "user_id": "hi",
+    "timestamp": "2025-05-23 01:21:16",
+    "access_granted": false,
+    "details": {
+      "user_id": "hi",
+      "auth_phrase": "low",
+      "enrolled_phrase": "aesan",
+      "phrase_match": false,
+      "voice_similarity": 0.9962737106132016,
+      "voice_match": "True",
+      "timestamp": "2025-05-23 01:21:16"
+    }
+  },
+  {
+    "user_id": "Umair",
+    "timestamp": "2025-05-23 01:22:27",
+    "access_granted": false,
+    "details": {
+      "user_id": "Umair",
+      "auth_phrase": "",
+      "enrolled_phrase": "i am supermoon.",
+      "phrase_match": false,
+      "voice_similarity": 0.9779705108963432,
+      "voice_match": "True",
+      "timestamp": "2025-05-23 01:22:27"
+    }
+  },
+  {
+    "user_id": "Umair",
+    "timestamp": "2025-05-23 01:22:44",
+    "access_granted": false,
+    "details": {
+      "user_id": "Umair",
+      "auth_phrase": "i am superman.",
+      "enrolled_phrase": "i am supermoon.",
+      "phrase_match": false,
+      "voice_similarity": 0.9889913538993977,
+      "voice_match": "True",
+      "timestamp": "2025-05-23 01:22:44"
+    }
+  },
+  {
+    "user_id": "Umair",
+    "timestamp": "2025-05-23 01:22:59",
+    "access_granted": false,
+    "details": {
+      "user_id": "Umair",
+      "auth_phrase": "i am super moon.",
+      "enrolled_phrase": "i am supermoon.",
+      "phrase_match": false,
+      "voice_similarity": 0.9948911962242509,
+      "voice_match": "True",
+      "timestamp": "2025-05-23 01:22:59"
+    }
+  },
+  {
+    "user_id": "Salman",
+    "timestamp": "2025-05-23 01:24:34",
+    "access_granted": true,
+    "details": {
+      "user_id": "Salman",
+      "auth_phrase": "this is my laptop.",
+      "enrolled_phrase": "this is my laptop.",
+      "phrase_match": true,
+      "voice_similarity": 0.9954816334688059,
+      "voice_match": "True",
+      "timestamp": "2025-05-23 01:24:34"
+    }
+  },
+  {
+    "user_id": "Salman",
+    "timestamp": "2025-05-23 01:24:50",
+    "access_granted": false,
+    "details": {
+      "user_id": "Salman",
+      "auth_phrase": "this is my laptop.",
+      "enrolled_phrase": "this is my laptop.",
+      "phrase_match": true,
+      "voice_similarity": 0.9891202370144871,
+      "voice_match": "False",
+      "timestamp": "2025-05-23 01:24:50"
+    }
+  }
+]
